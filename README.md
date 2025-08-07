@@ -2,7 +2,7 @@
 
 This project presents an interactive Tableau dashboard to explore shipping efficiency and sales performance across candy factories in the U.S. Using a combination of sales, product, and factory location data, the dashboard helps identify bottlenecks, high-performing products, and strategic opportunities for expansion.
 
-![Dashboard Preview](/Users/mandy/Downloads/111.jpg) <!
+![Dashboard Preview](./Dahboard.jpg)
 
 ## Objectives
 - Analyze factory performance and fulfillment efficiency
